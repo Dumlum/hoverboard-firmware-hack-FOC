@@ -19,9 +19,9 @@
 //   #define FEEDBACK_SERIAL_USART3
 //   // #define DEBUG_SERIAL_USART3
 // • Option 2: Serial on Left Sensor cable (long wired cable) - use only with 3.3V devices! The USART2 pins are not 5V tolerant!
-//   #define CONTROL_SERIAL_USART2
-//   #define FEEDBACK_SERIAL_USART2
-//   // #define DEBUG_SERIAL_USART2
+   #define CONTROL_SERIAL_USART2
+   #define FEEDBACK_SERIAL_USART2
+    #define DEBUG_SERIAL_USART2
 // *******************************************************************
 
 // ########################## DEFINES ##########################
